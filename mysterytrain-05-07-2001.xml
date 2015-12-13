@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Ibrahim Ferrer</album>
+	<creator>Ibrahim Ferrer</creator>
+	<title>Silencio</title>
+</track>
+<track>
+<album>Buena Vista Social Club Presents OMARA PORTUONDO</album>
+	<creator>Omara Portuondo</creator>
+	<title>La Sitiera</title>
+</track>
+<track>
+<album>The Best Cuban Album in the World...Ever</album>
+	<creator>Celia Cruz</creator>
+	<title>Pachito Eche</title>
+</track>
+<track>
+<album>Yo Vengo Aquí</album>
+	<creator>Compay Segundo</creator>
+	<title>Chan Chan</title>
+</track>
+<track>
+<album>Tributo al Cuarteto Patria</album>
+	<creator>Eliades Ochoa</creator>
+	<title>Yiri Yiri Bon</title>
+</track>
+<track>
+<album>Cambio De Tiempo</album>
+	<creator>Vocal Sampling</creator>
+	<title>Asi Hablaba Zarathustra</title>
+</track>
+<track>
+<album>Bossa Cubana</album>
+	<creator>Los Zafiros</creator>
+	<title>Dichoso Mar</title>
+</track>
+<track>
+<album>Introducing....Ruben Gonzalez</album>
+	<creator>Ruben Gonzalez</creator>
+	<title>La Enganadora</title>
+</track>
+</trackList>
+</playlist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Western Electric</album>
+	<creator>Western Electric</creator>
+	<title>Theme from Western Electric</title>
+</track>
+<track>
+<album>Lambchop Nixon</album>
+	<creator>Lambchop</creator>
+	<title>Nashville Parent</title>
+</track>
+<track>
+<album>Brought Him With Me</album>
+	<creator>The Blind Boys of Alabama</creator>
+	<title>If I had a Hammer</title>
+</track>
+<track>
+<album>Figure 8</album>
+	<creator>Elliott Smith</creator>
+	<title>Somebody That I Used to Know</title>
+</track>
+<track>
+<album>Revolver</album>
+	<creator>The Beatles</creator>
+	<title>I</title>
+</track>
+<track>
+<album>Chartbusters USA Vol 1</album>
+	<creator>Sir Douglas Quintet</creator>
+	<title>She</title>
+</track>
+<track>
+<album>The Essential One &amp; Only Jerry Lee Lewis</album>
+	<creator>Jerry Lee Lewis</creator>
+	<title>What</title>
+</track>
+<track>
+<album>Blues Ballads &amp; Rock 'n' Roll</album>
+	<creator>Ivory Joe Hunter</creator>
+	<title>Shooty Booty</title>
+</track>
+<track>
+<album>Highlights from Crescent City Soul</album>
+	<creator>Amos Milburn</creator>
+	<title>Chicken Shack Boogie</title>
+</track>
+<track>
+<album>What's Going On</album>
+	<creator>Marvin Gaye</creator>
+	<title>What</title>
+</track>
+<track>
+<album>Deep Blue</album>
+	<creator>Marlena Shaw</creator>
+	<title>Save the Children</title>
+</track>
+<track>
+<album>Deep Blue</album>
+	<creator>Andrew Hill</creator>
+	<title>Illusions</title>
+</track>
+</trackList>
+</playlist>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Various Positions</album>
+	<creator>Leonard Cohen</creator>
+	<title>Hallelujah</title>
+</track>
+<track>
+<album>The Hidden Years</album>
+	<creator>John Martyn</creator>
+	<title>Patterns In The Rain</title>
+</track>
+<track>
+<album>The Whole Story</album>
+	<creator>Kate Bush</creator>
+	<title>Breathing</title>
+</track>
+<track>
+<album>Fever</album>
+	<creator>Peggy lee</creator>
+	<title>Sugar</title>
+</track>
+<track>
+<album>The Heart Of Saturday Night</album>
+	<creator>Tom Waits</creator>
+	<title>The Heart Of Saturday Night</title>
+</track>
+<track>
+<album>Debut</album>
+	<creator>Bjork</creator>
+	<title>Like Someone In Love</title>
+</track>
+<track>
+<album>Songbook</album>
+	<creator>Trisha Yearwood</creator>
+	<title>On A Bus To St</title>
+</track>
+<track>
+<album>This Mortal Coil</album>
+	<creator>Blood</creator>
+	<title>You And Your Sister</title>
+</track>
+<track>
+<album>Greatest Hits</album>
+	<creator>Linda Ronstadt</creator>
+	<title>Blue Bayou</title>
+</track>
+<track>
+<album>Wind Dancer</album>
+	<creator>Conor Byrne</creator>
+	<title>Lonely Streets</title>
+</track>
+<track>
+<album>The Best Of Roberta Flack</album>
+	<creator>Roberta Flack</creator>
+	<title>The First Time Ever I Saw Your Face</title>
+</track>
+<track>
+<album>Beat The Border</album>
+	<creator>Geoffrey Oreyma</creator>
+	<title>Kel Kweyo</title>
+</track>
+</trackList>
+</playlist>

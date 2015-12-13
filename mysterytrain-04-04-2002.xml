@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Lean on me</album>
+	<creator>Bill Withers</creator>
+	<title>Use Me</title>
+</track>
+<track>
+<album>Born on the 24th of July</album>
+	<creator>Charles Webster</creator>
+	<title>Sweet butterfly</title>
+</track>
+<track>
+<album>Curtis</album>
+	<creator>Curtis Mayfield</creator>
+	<title>We are the people who are darker than blue</title>
+</track>
+<track>
+<album>The time has come</album>
+	<creator>The Chambers Brothers</creator>
+	<title>People get ready</title>
+</track>
+<track>
+<album>Best of</album>
+	<creator>Jimmy Mc Griff</creator>
+	<title>I</title>
+</track>
+<track>
+<album>Dr. Byrds &amp; Mr. Hyde</album>
+	<creator>The Byrds</creator>
+	<title>Bad night at the whiskey</title>
+</track>
+<track>
+<album>Roses in the snow</album>
+	<creator>Emmylou Harris</creator>
+	<title>Green pastures</title>
+</track>
+<track>
+<album>Sweet water</album>
+	<creator>Kevin Doherty</creator>
+	<title>Slow song</title>
+</track>
+<track>
+<album>Sonny Stitt and the Top Brass</album>
+	<creator>Sonny Stitt</creator>
+	<title>Boom</title>
+</track>
+<track>
+<album>Scott</album>
+	<creator>Scott Walker</creator>
+	<title>Such a small love</title>
+</track>
+<track>
+<album>Ten new songs</album>
+	<creator>Leonard Cohen</creator>
+	<title>A thousand kisses deep</title>
+</track>
+<track>
+<album>The Capitol years</album>
+	<creator>Cannonball Adderley</creator>
+	<title>Why am I treated so bad</title>
+</track>
+</trackList>
+</playlist>

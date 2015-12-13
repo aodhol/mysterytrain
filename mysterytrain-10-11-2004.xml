@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>RFI Musique</album>
+	<creator>Arthur H</creator>
+	<title>Le Baron Noir</title>
+</track>
+<track>
+<album>Qui Seme Le Vent Récolte Le Tempo</album>
+	<creator>MC Solaar</creator>
+	<title>Bouge De L</title>
+</track>
+<track>
+<album>Summer Jets</album>
+	<creator>Iain Archer</creator>
+	<title>Summer Jets</title>
+</track>
+<track>
+<album>Saint Dominic's Preview</album>
+	<creator>Van Morrison</creator>
+	<title>Saint Dominic</title>
+</track>
+<track>
+<album>Country Got Soul</album>
+	<creator>Larry Jon Wilson</creator>
+	<title>Ohoopee River Bottomland</title>
+</track>
+<track>
+<album>The Delivery Man</album>
+	<creator>Elvis Costello</creator>
+	<title>Country Darkness</title>
+</track>
+<track>
+<album>The Notorious Cherry Bombs</album>
+	<creator>The Notorious Cherry Bombs</creator>
+	<title>It</title>
+</track>
+<track>
+<album>Serendipity: An Introduction to John Martyn</album>
+	<creator>John Martyn</creator>
+	<title>Small Hours</title>
+</track>
+<track>
+<album>Officium</album>
+	<creator>Jan Garbarek</creator>
+	<title>Parce Mihi Domine</title>
+</track>
+</trackList>
+</playlist>

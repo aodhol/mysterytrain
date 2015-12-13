@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Beyond Nashville</album>
+	<creator>Son Volt</creator>
+	<title>Windfall</title>
+</track>
+<track>
+<album>Beyond Nashville</album>
+	<creator>The Band</creator>
+	<title>Long Black Veil</title>
+</track>
+<track>
+<album>Beyond Nashville</album>
+	<creator>Lefty Frizell</creator>
+	<title>Always late</title>
+</track>
+<track>
+<album>Franks wild years</album>
+	<creator>Tom Waits</creator>
+	<title>Hang on St Christopher</title>
+</track>
+<track>
+<album>Y los cubanos postizos</album>
+	<creator>Marc Ribot</creator>
+	<title>Dame un cachito pa</title>
+</track>
+<track>
+<album>Super breaks Volume three</album>
+	<creator>Jimmy Ponder</creator>
+	<title>While my guitar gently weeps</title>
+</track>
+<track>
+<album>I like it</album>
+	<creator>Camille Yarbrough</creator>
+	<title>Take yo</title>
+</track>
+<track>
+<album>The best of the Kent singles 1958-1971</album>
+	<creator>BB King</creator>
+	<title>Beautician Blues</title>
+</track>
+<track>
+<album>The final Kent years</album>
+	<creator>Lowell Fulson</creator>
+	<title>Everyday I have the Blues</title>
+</track>
+<track>
+<album>Genius of modern music Vol. 2</album>
+	<creator>Thelonious Monk</creator>
+	<title>Four in one</title>
+</track>
+</trackList>
+</playlist>

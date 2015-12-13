@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Unplugged</album>
+	<creator>Neil Young</creator>
+	<title>The needle and the damage done</title>
+</track>
+<track>
+<album>To the end</album>
+	<creator>Revelino</creator>
+	<title>We are not afraid</title>
+</track>
+<track>
+<album>Unbelievables</album>
+	<creator>The Happy Mondays</creator>
+	<title>Step on</title>
+</track>
+<track>
+<album>458489 A sides</album>
+	<creator>The Fall</creator>
+	<title>Hit the North part 1</title>
+</track>
+<track>
+<album>Innervisions</album>
+	<creator>Stevie Wonder</creator>
+	<title>Higher Ground</title>
+</track>
+<track>
+<album>Blue Juice</album>
+	<creator>Billy Preston</creator>
+	<title>Uptight</title>
+</track>
+<track>
+<album>Chess club Rhythm &amp; Soul</album>
+	<creator>Brother Jack McDuff</creator>
+	<title>Ain</title>
+</track>
+<track>
+<album>Tony Bennett sings Duke Ellington</album>
+	<creator>Tony Bennett</creator>
+	<title>Mood Indigo</title>
+</track>
+<track>
+<album>The Duke</album>
+	<creator>Duke Ellington</creator>
+	<title>Solitude</title>
+</track>
+<track>
+<album>Post cards from Downtown</album>
+	<creator>Dayna Kurtz</creator>
+	<title>Fred Astaire</title>
+</track>
+<track>
+<album>No Exit</album>
+	<creator>Blondie</creator>
+	<title>Maria</title>
+</track>
+<track>
+<album>When pigs fly</album>
+	<creator>The Box Tops</creator>
+	<title>Call me</title>
+</track>
+</trackList>
+</playlist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>movie lovers</album>
+	<creator>al green</creator>
+	<title>love and happiness</title>
+</track>
+<track>
+<album>Pain,Sorrow and Loneliness</album>
+	<creator>Norm West</creator>
+	<title>Five Pages Of Heartaches</title>
+</track>
+<track>
+<album>Bridges and Babylon</album>
+	<creator>The Rolling Stones</creator>
+	<title>Always Suffering</title>
+</track>
+<track>
+<album>No Exit</album>
+	<creator>Blondie</creator>
+	<title>The Dream</title>
+</track>
+<track>
+<album>Serendipity</album>
+	<creator>John Martyn</creator>
+	<title>Bless The Weather</title>
+</track>
+<track>
+<album>Walking On Locusts</album>
+	<creator>John Cale</creator>
+	<title>Dancing Undercover</title>
+</track>
+<track>
+<album>Polichinelle</album>
+	<creator>The Prayerboat</creator>
+	<title>It Hurts To Be In Love</title>
+</track>
+<track>
+<album>Jet</album>
+	<creator>Katell Keinig</creator>
+	<title>Marietta</title>
+</track>
+<track>
+<album>Vagabond Ways</album>
+	<creator>Marianne Faithfull</creator>
+	<title>Electra</title>
+</track>
+<track>
+<album>Midnight Blue</album>
+	<creator>Lawrence Marable Quartet</creator>
+	<title>Lover Man</title>
+</track>
+</trackList>
+</playlist>

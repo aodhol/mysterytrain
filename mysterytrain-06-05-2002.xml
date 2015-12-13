@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>The Threepenny Orchestra</album>
+	<creator>Kurt Weill</creator>
+	<title>The ballad of Mac the knife</title>
+</track>
+<track>
+<album>Jailbreak</album>
+	<creator>Thin Lizzy</creator>
+	<title>The boys are back in town</title>
+</track>
+<track>
+<album>Punk. The Jubilee</album>
+	<creator>The Only Ones</creator>
+	<title>Another girl</title>
+</track>
+<track>
+<album>The best of Louie, Louie</album>
+	<creator>The Kingsmen</creator>
+	<title>Louie</title>
+</track>
+<track>
+<album>Legends of guitar</album>
+	<creator>Link Ray and his Raymen</creator>
+	<title>Rumble</title>
+</track>
+<track>
+<album>Blood money</album>
+	<creator>Tom Waits</creator>
+	<title>God</title>
+</track>
+<track>
+<album>Medicated magic</album>
+	<creator>The Dirty Dozen Brass Band</creator>
+	<title>Walk on gilded splinters</title>
+</track>
+<track>
+<album>Ok Computer</album>
+	<creator>Radiohead</creator>
+	<title>No Surprises</title>
+</track>
+<track>
+<album>Trailer park</album>
+	<creator>Beth Orton</creator>
+	<title>She cries your name</title>
+</track>
+<track>
+<album>Trans-Europe express</album>
+	<creator>Kraftwerk</creator>
+	<title>Franz Schubert</title>
+</track>
+<track>
+<album>'I like it'</album>
+	<creator>Jean Jacques Perrey</creator>
+	<title>E</title>
+</track>
+<track>
+<album>Diggin deeper 3</album>
+	<creator>Lalo Schifrin</creator>
+	<title>Jaws</title>
+</track>
+</trackList>
+</playlist>

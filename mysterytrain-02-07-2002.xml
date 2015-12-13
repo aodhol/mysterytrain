@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>The great divide</album>
+	<creator>Willie Nelson</creator>
+	<title>Just dropped in</title>
+</track>
+<track>
+<album>The Band</album>
+	<creator>The Band</creator>
+	<title>The unfaithful servant</title>
+</track>
+<track>
+<album>Lost blues and other songs</album>
+	<creator>Palace music</creator>
+	<title>Ohio River Boat song</title>
+</track>
+<track>
+<album>The Country Gentleman featuring Ricky Skaggs</album>
+	<creator>The Country Gentleman</creator>
+	<title>House of the rising son</title>
+</track>
+<track>
+<album>There is no eye: Music for photographs</album>
+	<creator>Eck Robertson</creator>
+	<title>Sally Goodin</title>
+</track>
+<track>
+<album>The definitive</album>
+	<creator>Sonny Rollins</creator>
+	<title>I</title>
+</track>
+<track>
+<album>Giant steps</album>
+	<creator>John Coltrane</creator>
+	<title>Naima</title>
+</track>
+<track>
+<album>Amnesiac</album>
+	<creator>Radiohead</creator>
+	<title>Pyramid Song</title>
+</track>
+<track>
+<album>Espirituvivo</album>
+	<creator>Susana Baca</creator>
+	<title>La noche y el dia</title>
+</track>
+<track>
+<album>Laughing in rhythm</album>
+	<creator>Slim Gaillard</creator>
+	<title>Babalu</title>
+</track>
+<track>
+<album>Thousand finger man</album>
+	<creator>Candido</creator>
+	<title>Soul limbo</title>
+</track>
+</trackList>
+</playlist>

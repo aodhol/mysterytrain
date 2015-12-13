@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Atomic Blondie, The Very Best of Blondie</album>
+	<creator>Blondie</creator>
+	<title>One Way Or Another</title>
+</track>
+<track>
+<album>Blondie, No Exit</album>
+	<creator>Blondie</creator>
+	<title>Maria</title>
+</track>
+<track>
+<album>Johnny Cash: American IV: The Man Comes Around</album>
+	<creator>Johnny Cash</creator>
+	<title>First Time Ever I Saw Your Face</title>
+</track>
+<track>
+<album>The Essential James Carr</album>
+	<creator>James Carr</creator>
+	<title>To Love Somebody</title>
+</track>
+<track>
+<album>Sanctified Soul</album>
+	<creator>Otis Clay</creator>
+	<title>Is It Over</title>
+</track>
+<track>
+<album>Don't Give Up On Me</album>
+	<creator>Solomon Burke</creator>
+	<title>Stepchild</title>
+</track>
+<track>
+<album>Good As I Been To You</album>
+	<creator>Bob Dylan</creator>
+	<title>Arthur McBride</title>
+</track>
+<track>
+<album>Nobody Knows - The Best of Paul Brady</album>
+	<creator>Paul Brady</creator>
+	<title>The Lakes of Pontchartrain</title>
+</track>
+<track>
+<album>Ralph Stanley</album>
+	<creator>Ralph Stanley</creator>
+	<title>Girl From The Greenbriar Shore</title>
+</track>
+<track>
+<album>---</album>
+	<creator>4 Blazes</creator>
+	<title>Night Train</title>
+</track>
+</trackList>
+</playlist>

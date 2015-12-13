@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Red Hot Chili Peppers Greatest Hits</album>
+	<creator>Red Hot Chili Peppers</creator>
+	<title>Under The Bridge</title>
+</track>
+<track>
+<album>Echoes</album>
+	<creator>The Rapture</creator>
+	<title>Open Up Your Heart</title>
+</track>
+<track>
+<album>Hail To The Thief</album>
+	<creator>Radiohead</creator>
+	<title>There There</title>
+</track>
+<track>
+<album>The Keyboard King at Studio One</album>
+	<creator>Jackie Mittoo</creator>
+	<title>Oboe</title>
+</track>
+<track>
+<album>Cover The World</album>
+	<creator>Nenes</creator>
+	<title>No Woman</title>
+</track>
+<track>
+<album>ELVIS PRESLEY</album>
+	<creator>Elvis Presley</creator>
+	<title>My Baby Left Me</title>
+</track>
+<track>
+<album>Let's Play House: The Best of Arthur Gunter</album>
+	<creator>Arthur Gunter</creator>
+	<title>Baby Let</title>
+</track>
+<track>
+<album>The Roots of Elvis Presley</album>
+	<creator>Arthur Crudup</creator>
+	<title>That</title>
+</track>
+<track>
+<album>Wichita Lineman</album>
+	<creator>Friends of Dean Martinez</creator>
+	<title>Tennessee Waltz</title>
+</track>
+<track>
+<album>SIGUR ROS</album>
+	<creator>Sigur Ros</creator>
+	<title>Staalfur</title>
+</track>
+</trackList>
+</playlist>

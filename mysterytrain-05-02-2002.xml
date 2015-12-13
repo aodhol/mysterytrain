@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>(single)</album>
+	<creator>The Frames</creator>
+	<title>Headlong</title>
+</track>
+<track>
+<album>(Single)</album>
+	<creator>The Verve</creator>
+	<title>Lucky man</title>
+</track>
+<track>
+<album>Blue</album>
+	<creator>Joni Mitchell</creator>
+	<title>A case of you</title>
+</track>
+<track>
+<album>Introduction to</album>
+	<creator>John Martyn</creator>
+	<title>May you never</title>
+</track>
+<track>
+<album>Blue lines</album>
+	<creator>Massive Attack</creator>
+	<title>Hymn of the big wheel</title>
+</track>
+<track>
+<album></album>
+	<creator>Craig Armstrong</creator>
+	<title>Stay</title>
+</track>
+<track>
+<album>When I was cruel</album>
+	<creator>Elvis Costello</creator>
+	<title>45</title>
+</track>
+<track>
+<album>Greatest hits</album>
+	<creator>Little Richard</creator>
+	<title>Bama lama</title>
+</track>
+<track>
+<album>Creole kings of New Orleans</album>
+	<creator>Lloyd Price</creator>
+	<title>Lawdy Miss clawdy</title>
+</track>
+<track>
+<album>Crescent City Soul</album>
+	<creator>Fats Domino</creator>
+	<title>Walking to New Orleans</title>
+</track>
+<track>
+<album></album>
+	<creator>Esbjorn Svensson Trio</creator>
+	<title>The Message</title>
+</track>
+<track>
+<album></album>
+	<creator>Lee Morgan</creator>
+	<title>Afreaka</title>
+</track>
+</trackList>
+</playlist>

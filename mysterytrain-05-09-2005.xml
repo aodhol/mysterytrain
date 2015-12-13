@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>HORSES</album>
+	<creator>PATTI SMITH</creator>
+	<title>FREE MONEY</title>
+</track>
+<track>
+<album>ABSENT FRIENDS</album>
+	<creator>DIVINE COMEDY</creator>
+	<title>OUR MUTUAL FRIEND</title>
+</track>
+<track>
+<album>NO REGRETS - THE BEST OF SCOTT WALKER AND THE WALKER BROTHERS</album>
+	<creator>THE WALKER BROTHERS</creator>
+	<title>THE SUN AIN</title>
+</track>
+<track>
+<album>HERE'S THE MAN!!!</album>
+	<creator>BOBBY BLAND</creator>
+	<title>36</title>
+</track>
+<track>
+<album>THE SOUND OF THE CITY: MEMPHIS</album>
+	<creator>ROSCO GORDON</creator>
+	<title>NO MORE DOGGIN</title>
+</track>
+<track>
+<album>I AM A BIRD NOW</album>
+	<creator>ANTONY AND THE JOHNSONS</creator>
+	<title>FISTFUL OF LOVE</title>
+</track>
+<track>
+<album>HARD DAY'S NIGHT</album>
+	<creator>THE BEATLES</creator>
+	<title>HARD DAY</title>
+</track>
+</trackList>
+</playlist>

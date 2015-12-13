@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>The Greatest</album>
+	<creator>Arthur Alexander</creator>
+	<title>Dream Girl</title>
+</track>
+<track>
+<album>Greatest Hits</album>
+	<creator>Clyde McPhatter</creator>
+	<title>Treasure of Love</title>
+</track>
+<track>
+<album>Fever</album>
+	<creator>Little Willie John</creator>
+	<title>If I Thought You Needed Me</title>
+</track>
+<track>
+<album>You I'm Thinking Of</album>
+	<creator>Relish</creator>
+	<title>You I</title>
+</track>
+<track>
+<album>Shag Tobacco</album>
+	<creator>Gavin Friday</creator>
+	<title>Angel</title>
+</track>
+<track>
+<album>Small Moments</album>
+	<creator>David Kitt</creator>
+	<title>Another Love Song</title>
+</track>
+<track>
+<album>Sweet Heart Of The Rodeo</album>
+	<creator>The Byrds</creator>
+	<title>You</title>
+</track>
+<track>
+<album>If I Could Only Fly</album>
+	<creator>Merle Haggard</creator>
+	<title>Turn To Me</title>
+</track>
+<track>
+<album>The Very Best of Elvis Costello</album>
+	<creator>Elvis Costello</creator>
+	<title>Good Year For The Roses</title>
+</track>
+<track>
+<album>The Very Best of Holly Cole</album>
+	<creator>Holly Cole</creator>
+	<title>Alison</title>
+</track>
+<track>
+<album>Music Typewriter</album>
+	<creator>Moreno Veloso</creator>
+	<title>Sert</title>
+</track>
+<track>
+<album>Olé</album>
+	<creator>John Coltrane</creator>
+	<title>Ol</title>
+</track>
+</trackList>
+</playlist>

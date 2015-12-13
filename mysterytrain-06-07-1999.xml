@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Bryter Layter</album>
+	<creator>Nick Drake</creator>
+	<title>Fly</title>
+</track>
+<track>
+<album>Little Star</album>
+	<creator>Nick Nordenstam</creator>
+	<title>Little Star</title>
+</track>
+<track>
+<album>Homogenic</album>
+	<creator>Bjork</creator>
+	<title>Unravel</title>
+</track>
+<track>
+<album>B.B.</album>
+	<creator>Brigitte Bardot</creator>
+	<title>Moi Je Jou</title>
+</track>
+<track>
+<album>After Hours</album>
+	<creator>Nina Simone</creator>
+	<title>If I Should Lose You</title>
+</track>
+<track>
+<album>Music From Twin Peaks</album>
+	<creator>Angela Badalamenti</creator>
+	<title>Twin Peaks Theme</title>
+</track>
+<track>
+<album>Les Mysteres Des Voix Bulgares</album>
+	<creator>Erghen Diado</creator>
+	<title>Song OF Schopsko</title>
+</track>
+<track>
+<album>Summer In The Yukon</album>
+	<creator>Jane Siberry</creator>
+	<title>Calling All Angels</title>
+</track>
+<track>
+<album>Adia</album>
+	<creator>Sara McLachlan</creator>
+	<title>Angel</title>
+</track>
+<track>
+<album>Grace</album>
+	<creator>Jeff Buckley</creator>
+	<title>Corpus Christi Carol</title>
+</track>
+<track>
+<album>The Look Of Love</album>
+	<creator>Dusty Springfield</creator>
+	<title>The Look Of Love</title>
+</track>
+<track>
+<album>Painted From Memory</album>
+	<creator>Elvis Costelo with Burt Bacharac</creator>
+	<title>God Give Me Strength</title>
+</track>
+</trackList>
+</playlist>

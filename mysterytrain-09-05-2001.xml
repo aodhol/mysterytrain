@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>"Love And Theft"</album>
+	<creator>Bob Dylan</creator>
+	<title>Bye</title>
+</track>
+<track>
+<album>Sweetheart of the Rodeo</album>
+	<creator>The Byrds</creator>
+	<title>You Ain</title>
+</track>
+<track>
+<album>The Gilded Palace of Sin &amp; Burritto Deluxe</album>
+	<creator>The Flying Burrito Bros</creator>
+	<title>Sin City</title>
+</track>
+<track>
+<album>The Definitive Ray Charles</album>
+	<creator>Ray Charles</creator>
+	<title>Drown In My Own Tears</title>
+</track>
+<track>
+<album>Good Old Boys</album>
+	<creator>Randy Newman</creator>
+	<title>Marie</title>
+</track>
+<track>
+<album>"Love And Theft"</album>
+	<creator>Bob Dylan</creator>
+	<title>Summer Days</title>
+</track>
+<track>
+<album>"Love And Theft"</album>
+	<creator>Bob Dylan</creator>
+	<title>Po</title>
+</track>
+<track>
+<album>Small Moments</album>
+	<creator>David Kitt</creator>
+	<title>Another Love Song</title>
+</track>
+<track>
+<album>Amnesiac</album>
+	<creator>Radiohead</creator>
+	<title>Life In A Glasshouse</title>
+</track>
+<track>
+<album>Complete Hot Five And Hot Seven Recordings</album>
+	<creator>Louis Armstrong</creator>
+	<title>Potato Head Blues</title>
+</track>
+<track>
+<album>The Duke - The Essential Collection: l927 - l962</album>
+	<creator>Duke Ellington</creator>
+	<title>Solitude</title>
+</track>
+</trackList>
+</playlist>

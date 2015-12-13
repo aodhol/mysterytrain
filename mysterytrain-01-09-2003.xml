@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Figure 8</album>
+	<creator>Elliott Smith</creator>
+	<title>Somebody That I Used To Know</title>
+</track>
+<track>
+<album>Finisterre</album>
+	<creator>Saint Etienne</creator>
+	<title>Language Lab</title>
+</track>
+<track>
+<album>Keelwest</album>
+	<creator>Paul McGrattan</creator>
+	<title>The Dispute at the Crossroads</title>
+</track>
+<track>
+<album>HEADZ II</album>
+	<creator>Beastie Boys</creator>
+	<title>Flute Loop</title>
+</track>
+<track>
+<album>The Last Man In Europe</album>
+	<creator>The Blades</creator>
+	<title>Downmarket</title>
+</track>
+<track>
+<album>Songs from Northern Britain</album>
+	<creator>Teenage Fanclub</creator>
+	<title>Ain</title>
+</track>
+<track>
+<album>AXIS: Bold As Love</album>
+	<creator>The Jimi Hendrix Experience</creator>
+	<title>Little Wing</title>
+</track>
+<track>
+<album>The Gil Evans Orchestra Plays the Music of Jimi Hendrix</album>
+	<creator>The Gil Evans Orchestra</creator>
+	<title>Crosstown Traffic</title>
+</track>
+<track>
+<album>All The Way</album>
+	<creator>Jimmy Scott</creator>
+	<title>At Last</title>
+</track>
+</trackList>
+</playlist>

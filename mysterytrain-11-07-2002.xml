@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Good Morning Aztlán</album>
+	<creator>Los Lobos</creator>
+	<title>Good Morning Aztl</title>
+</track>
+<track>
+<album>The Sound Of The City: Memphis</album>
+	<creator>John Hiatt</creator>
+	<title>Memphis In The Meantime</title>
+</track>
+<track>
+<album>Don't Give Up On Me</album>
+	<creator>Solomon Burke</creator>
+	<title>Diamond In Your Mind</title>
+</track>
+<track>
+<album>Amnesiac</album>
+	<creator>Radiohead</creator>
+	<title>Knives Out</title>
+</track>
+<track>
+<album>Largo</album>
+	<creator>Brad Mehldau</creator>
+	<title>Dear Prudence</title>
+</track>
+<track>
+<album>Sigur Ros</album>
+	<creator>Sigur Ros</creator>
+	<title>Track 3</title>
+</track>
+</trackList>
+</playlist>

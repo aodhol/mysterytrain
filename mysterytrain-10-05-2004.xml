@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Dan Reeder</album>
+	<creator>Dan Reeder</creator>
+	<title>Here In The Kitchen</title>
+</track>
+<track>
+<album>John Lennon / Plastic Ono Band</album>
+	<creator>John Lennon</creator>
+	<title>Love</title>
+</track>
+<track>
+<album>Bob Dylan Live 1975</album>
+	<creator>Bob Dylan</creator>
+	<title>Love Minus Zero</title>
+</track>
+<track>
+<album>Mulholland Drive</album>
+	<creator>Rebekah Del Rio</creator>
+	<title>Llorando</title>
+</track>
+<track>
+<album>Roy Orbison &amp; Friends</album>
+	<creator>Roy Orbison</creator>
+	<title>Dream Baby</title>
+</track>
+<track>
+<album>Monkey Jungle</album>
+	<creator>Duke Ellington</creator>
+	<title>Solitide</title>
+</track>
+<track>
+<album>Mystery Train Cabaret Band: Live Recording in Studio 8, RTE</album>
+	<creator>Rodrigo Y Gabriela</creator>
+	<title>P</title>
+</track>
+<track>
+<album>Let There Be Rockgrass</album>
+	<creator>Hayseed Dixie</creator>
+	<title>Ace Of Spades</title>
+</track>
+<track>
+<album>Cry From the Cross</album>
+	<creator>Ralph Stanley</creator>
+	<title>Cry From the Cross</title>
+</track>
+<track>
+<album>Land of The Sun</album>
+	<creator>Charlie Haden</creator>
+	<title>Solamente Una Vez</title>
+</track>
+<track>
+<album>Studio One Funk - The Original 45</album>
+	<creator>Underground Vegetables</creator>
+	<title>Melting Pot</title>
+</track>
+</trackList>
+</playlist>

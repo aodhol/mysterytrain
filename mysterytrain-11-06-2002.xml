@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>The Rising</album>
+	<creator>Bruce Springsteen</creator>
+	<title>Waitin</title>
+</track>
+<track>
+<album>Johnny Cash: American IV: The Man Comes Around</album>
+	<creator>Johnny Cash</creator>
+	<title>The Man Comes Around</title>
+</track>
+<track>
+<album>Both Sides Now: The Spirit of Americana</album>
+	<creator>Jason Ringenberg</creator>
+	<title>Bible</title>
+</track>
+<track>
+<album>Avenue B</album>
+	<creator>Iggy Pop</creator>
+	<title>Miss Argentina</title>
+</track>
+<track>
+<album>Specialist In All Styles</album>
+	<creator>Orchestra Baobab</creator>
+	<title>Dee Moo Woor</title>
+</track>
+<track>
+<album>Sampled -
+Vol 3</album>
+	<creator>David McCallum</creator>
+	<title>The Edge</title>
+</track>
+<track>
+<album>The Best &amp; The B-Sides of l990 - 2000</album>
+	<creator>U2</creator>
+	<title>Numb</title>
+</track>
+<track>
+<album>Apollo,
+Atmospheres &amp; Soundtracks</album>
+	<creator>Brian Eno</creator>
+	<title>Deep Blue Day</title>
+</track>
+</trackList>
+</playlist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Best of</album>
+	<creator>David Bowie</creator>
+	<title>Life on Mars</title>
+</track>
+<track>
+<album>(Promo compilation)</album>
+	<creator>Ash</creator>
+	<title>Girl from Mars</title>
+</track>
+<track>
+<album>Best of</album>
+	<creator>The Undertones</creator>
+	<title>Mars Bars</title>
+</track>
+<track>
+<album>Since I left you</album>
+	<creator>The Avalanches</creator>
+	<title>Since I left you</title>
+</track>
+<track>
+<album>Screamadelica</album>
+	<creator>Primal Scream</creator>
+	<title>Loaded</title>
+</track>
+<track>
+<album>40 licks</album>
+	<creator>The Rolling Stones</creator>
+	<title>Sympathy for the devil</title>
+</track>
+<track>
+<album>Best of</album>
+	<creator>Fela Kuti</creator>
+	<title>Water no got enemy</title>
+</track>
+<track>
+<album>King of America</album>
+	<creator>Elvis Costello</creator>
+	<title>American without tears</title>
+</track>
+<track>
+<album>Gotta travel on</album>
+	<creator>Bill Monroe</creator>
+	<title>White house blues</title>
+</track>
+<track>
+<album>Come September</album>
+	<creator>Hank Williams</creator>
+	<title>I</title>
+</track>
+</trackList>
+</playlist>

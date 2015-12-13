@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>The Very Best of John Lennon - Lennon Legend</album>
+	<creator>John Lennon</creator>
+	<title>Stand By Me</title>
+</track>
+<track>
+<album>Crooked Town</album>
+	<creator>Paul Cleary</creator>
+	<title>The Queen of Indecision</title>
+</track>
+<track>
+<album>You Should Have Known Me Then</album>
+	<creator>Phil Lee</creator>
+	<title>Good For Me</title>
+</track>
+<track>
+<album>Soundtrack, The Sopranos: Peppers &amp; Eggs</album>
+	<creator>Bob Dylan</creator>
+	<title>Return To Me</title>
+</track>
+<track>
+<album>Caetano Veloso</album>
+	<creator>Caetano Veloso</creator>
+	<title>Beleza Pura</title>
+</track>
+<track>
+<album>Essence</album>
+	<creator>Lucinda Williams</creator>
+	<title>Bus to Baton Rouge</title>
+</track>
+<track>
+<album>Lambchop Nixon</album>
+	<creator>Lambchop</creator>
+	<title>Nashville Parent</title>
+</track>
+<track>
+<album>All The Way</album>
+	<creator>Jimmy Scott</creator>
+	<title>Angel Eyes</title>
+</track>
+<track>
+<album>Atlantic Jazz - Best of the '50s</album>
+	<creator>Lennie Tristano</creator>
+	<title>You Go To My Head</title>
+</track>
+</trackList>
+</playlist>

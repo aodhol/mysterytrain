@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>This is Pulp Country!</album>
+	<creator>Kristi Rose</creator>
+	<title>Johnny Guitar</title>
+</track>
+<track>
+<album>Small Town</album>
+	<creator>Brendan Quinn</creator>
+	<title>Only The Lonely</title>
+</track>
+<track>
+<album>More Bob Dylan Greatest Hits</album>
+	<creator>Bob Dylan</creator>
+	<title>Watching The River Flow</title>
+</track>
+<track>
+<album>Grind It!</album>
+	<creator>Roosevelt Sykes</creator>
+	<title>St James Infirmary</title>
+</track>
+<track>
+<album>Chess -
+The 50th Anniversary Collection</album>
+	<creator>John Lee Hooker</creator>
+	<title>One Bourbon</title>
+</track>
+<track>
+<album>Liberation Afrobeat Vol 1</album>
+	<creator>Antibalas Afrobeat Orchestra</creator>
+	<title>Dirt</title>
+</track>
+<track>
+<album>Donia</album>
+	<creator>Sawt el Atlas</creator>
+	<title>Ne Me Jugez Pas</title>
+</track>
+<track>
+<album>A PARIS......</album>
+	<creator>Jacky Terrasson</creator>
+	<title>I Love Paris In The Springtime</title>
+</track>
+<track>
+<album>Le Paris Bleu</album>
+	<creator>Django Reinhardt</creator>
+	<title>Nuages</title>
+</track>
+</trackList>
+</playlist>

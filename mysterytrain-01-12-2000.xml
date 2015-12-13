@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Roots -
+Britain, Ireland and North</album>
+	<creator>Taj Mahal</creator>
+	<title>The New Hula Blues</title>
+</track>
+<track>
+<album>Pieces of the Sky</album>
+	<creator>Emmylou Harris</creator>
+	<title>The Bottle Let Me Down</title>
+</track>
+<track>
+<album>Avenue B</album>
+	<creator>Iggy Pop</creator>
+	<title>Miss Argentina</title>
+</track>
+<track>
+<album>Fear</album>
+	<creator>John Cale</creator>
+	<title>You Know More Than I Know</title>
+</track>
+<track>
+<album>Transformer</album>
+	<creator>Lou Reed</creator>
+	<title>New York Telephone Conversation</title>
+</track>
+<track>
+<album>Tell Mama</album>
+	<creator>Etta James</creator>
+	<title>Spoonful</title>
+</track>
+<track>
+<album>Here’s The Man</album>
+	<creator>Bobby Bland</creator>
+	<title>Turn On Your Love Light</title>
+</track>
+<track>
+<album>Fever</album>
+	<creator>Little Willie John</creator>
+	<title>Leave My Kitten Alone</title>
+</track>
+<track>
+<album>Six Views Of The Blues</album>
+	<creator>Jimmy Smith</creator>
+	<title>Blues No</title>
+</track>
+</trackList>
+</playlist>

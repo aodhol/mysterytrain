@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>What's going on</album>
+	<creator>Marvin Gaye</creator>
+	<title>What</title>
+</track>
+<track>
+<album>Deep blue</album>
+	<creator>Bobby Hutcherson</creator>
+	<title>Inner City Blues</title>
+</track>
+<track>
+<album>When I was cruel</album>
+	<creator>Elvis Costello</creator>
+	<title>Soul for hire</title>
+</track>
+<track>
+<album>The best Ska album in the world...ever!</album>
+	<creator>Specials</creator>
+	<title>Message to you Rudy</title>
+</track>
+<track>
+<album>Jamaica</album>
+	<creator>Rico</creator>
+	<title>Midnight in Ethiopia</title>
+</track>
+<track>
+<album>Ethiopiques Vol. 9</album>
+	<creator>Alemayehu Eshete</creator>
+	<title>Shegitu Mare</title>
+</track>
+<track>
+<album>Sampled Volume 3</album>
+	<creator>Jimmy Bo Horne</creator>
+	<title></title>
+</track>
+<track>
+<album>Sampled Volume 3</album>
+	<creator>James Brown</creator>
+	<title>Funky president</title>
+</track>
+<track>
+<album>The complete early recordings</album>
+	<creator>Skip James</creator>
+	<title>Devil got my woman</title>
+</track>
+<track>
+<album>Boogie Woogie riot</album>
+	<creator>Big Joe Duskin</creator>
+	<title>The tribute</title>
+</track>
+<track>
+<album>Ultimate Lester Young</album>
+	<creator>Lester Young</creator>
+	<title>Lester leaps again</title>
+</track>
+<track>
+<album>Open Sesame</album>
+	<creator>Freddie Hubbard</creator>
+	<title>One mint julep</title>
+</track>
+</trackList>
+</playlist>

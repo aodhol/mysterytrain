@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+<trackList>
+<track>
+<album>Musings of a Creek Dipper</album>
+	<creator>Victoria Williams</creator>
+	<title>Hummingbird</title>
+</track>
+<track>
+<album>Hell Among the Yearlings</album>
+	<creator>Gillian Welch</creator>
+	<title>Rock of Ages</title>
+</track>
+<track>
+<album>Harvest Moon</album>
+	<creator>Neil Young</creator>
+	<title>Old king</title>
+</track>
+<track>
+<album>Weatherhole</album>
+	<creator>Michael Hurley</creator>
+	<title>Lean on Me</title>
+</track>
+<track>
+<album>My Life</album>
+	<creator>Iris de Ment</creator>
+	<title>Sweet is the Melody</title>
+</track>
+<track>
+<album>Pieces of the Sky</album>
+	<creator>Emmylou Harris</creator>
+	<title>Too Far Gone</title>
+</track>
+<track>
+<album>Art of Song</album>
+	<creator>Charlie Haden</creator>
+	<title>Wayfaring Stranger</title>
+</track>
+<track>
+<album>Sublime Ilusion</album>
+	<creator>Eliades Ochoa</creator>
+	<title>Mi Sueno Prohibido</title>
+</track>
+<track>
+<album>Bossa Cubana</album>
+	<creator>Los Zafiros</creator>
+	<title>Cancion de Orfeo</title>
+</track>
+<track>
+<album>Buena Vista Socila Club presents Ibrahim Ferrer</album>
+	<creator>Ibrahim Ferrer</creator>
+	<title>Herido de Sombras</title>
+</track>
+<track>
+<album>Solo Piano</album>
+	<creator>Chucho Valdez</creator>
+	<title>Nandy</title>
+</track>
+<track>
+<album>Mod Jazz</album>
+	<creator>Mongo Santamaria</creator>
+	<title>Watermelon Man</title>
+</track>
+<track>
+<album>Best of Latin Jazz</album>
+	<creator>Sergio Mendes</creator>
+	<title>Mas Que Nada</title>
+</track>
+<track>
+<album>Jazz Club</album>
+	<creator>Quincy Jones</creator>
+	<title>Soul Bossa Nova</title>
+</track>
+<track>
+<album>Mo Mod Jazz</album>
+	<creator>Pucho</creator>
+	<title>Georgia on My Mind</title>
+</track>
+</trackList>
+</playlist>
